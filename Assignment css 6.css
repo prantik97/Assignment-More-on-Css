@@ -1,0 +1,15 @@
+.outer{
+    border: 2px solid black;
+    padding: 50px;
+   
+}
+
+*{
+    box-sizing: border-box;
+}
+.imgSec img {
+    width: 1200px;
+}
+.outer h1 {
+    text-align: center;
+}

@@ -1,0 +1,29 @@
+.container {
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    background-color: grey;
+    margin:auto;
+    margin-top: 3%;
+    border-radius: 40px;
+}
+.imgPart img {
+    height: 400px;
+    width: 400px;
+    margin-top: 20px;
+    border-radius: 50%;
+}
+.TextSec {
+    text-align: center;
+    padding-left: 20px;
+}
+
+.boldname{
+    font-weight: 800;
+    font-size:larger;
+    
+}
+body {
+    background-color: gainsboro;
+    
+}

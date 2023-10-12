@@ -1,0 +1,30 @@
+.navbar{
+    
+    background-color: rgb(115, 115, 243);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+*{
+    margin:0px;
+    
+}
+
+.navbar li{
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;   
+}
+
+.navbar li a{
+    color: white;
+    padding: 15px;
+
+    
+}
+
+.navbar li a:hover{
+   
+   background-color: rgb(253, 253, 253);
+   color:rgb(115, 115, 243)  !important;
+}

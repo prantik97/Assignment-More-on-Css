@@ -1,0 +1,75 @@
+.navbar{
+    background-color: rgb(115, 115, 243);
+    padding:20px;
+    border: 3px dashed rgb(5, 235, 243);
+    
+}
+*{
+    margin:0px;
+    padding: 0px;
+    
+}
+.navbar li{
+    display: inline-block;
+    margin-right: 15px;
+    margin-left: 15px;
+    
+}
+
+.navbar li a{
+    color: white;
+   padding: 15px;
+}
+
+.navbar li:nth-child(1) a{
+    color: #662D91;
+    background-color: #ffffff;
+    border: 3px solid yellow;
+}
+.navbar li:nth-child(2) a{
+    color: #662D91;
+    background-color: #ffffff;
+    border: 3px solid green;
+}
+.navbar li:nth-child(3) a{
+    color: #662D91;
+    background-color: #ffffff;
+    border: 3px solid magenta;
+}
+.navbar li:nth-child(4) a{
+    color: #662D91;
+    background-color: #ffffff;
+    border: 3px solid brown;
+}
+.navbar li:nth-child(5) a{
+    color: #662D91;
+    background-color: #ffffff;
+    border: 3px solid greenyellow;
+}
+
+
+.navbar li:nth-child(1) a:hover{
+    color: #662D91;
+    background-color: #ffffff;
+    border: 3px solid red;
+}
+.navbar li:nth-child(2) a:hover{
+    color: #662D91;
+    background-color: #ffffff;
+    border: 3px solid red;
+}
+.navbar li:nth-child(3) a:hover{
+    color: #662D91;
+    background-color: #ffffff;
+    border: 3px solid red;
+}
+.navbar li:nth-child(4) a:hover{
+    color: #662D91;
+    background-color: #ffffff;
+    border: 3px solid red;
+}
+.navbar li:nth-child(5) a:hover{
+    color: #662D91;
+    background-color: #ffffff;
+    border: 3px solid red;
+}
